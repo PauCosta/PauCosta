@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there%2C+I'm+Pau+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
-¡Hola a todos!, Me llamo Pau, soy un estudiante de la Centre de la Imatge i la Tecnologia Multimèdia (CITM-UPC). Me interesa tanto la programación como la edición de vídeo y estoy en constante aprendizaje para mejorar mis habilidades.
+Soy un estudiante del Centre de la Imatge i la Tecnologia Multimèdia (CITM-UPC). Me interesa tanto la programación como la edición de vídeo y estoy en constante aprendizaje para mejorar mis habilidades.
 
 Acerca de mí
 📚 Actualmente estoy estudiando Multimedia en el CITM (UPC).
