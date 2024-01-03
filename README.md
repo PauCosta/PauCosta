@@ -4,7 +4,7 @@
 
 ![Pau's github stats](https://github-readme-stats.vercel.app/api?username=PauCosta&show_icons=true&theme=dracula&hide=contribs&count_private=true)
 
-![visitors](https://pageview.vercel.app/?github_user=andyfratello)
+![visitors](https://pageview.vercel.app/?github_user=PauCosta)
 
 <!--
 **PauCosta/PauCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
