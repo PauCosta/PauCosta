@@ -11,7 +11,7 @@ Mis habilidades
 💾 Bases de datos (SQL)
 🖌️ Diseño Web (HTML5, CSS, JavaScript)
 
-Contacto
+Contacto <br>
 Si desea ponerse en contacto conmigo, no dude en enviarme un correo electrónico a mi dirección: pau.cf268@gmail.com
 
 <a href="https://www.linkedin.com/in/pau-costa-forns/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Pau's LinkedIn"/></a>
