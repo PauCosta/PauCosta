@@ -1,15 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there%2C+I'm+Andreu+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
-<a href="https://www.linkedin.com/in/andreu-orensanz/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Andreu's LinkedIn"/></a>
-<a href="https://twitter.com/andreuorensanz" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://instagram.com/andreuorensanz" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/pau-costa-forns/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Pau's LinkedIn"/></a>
 
-![Andreu's github stats](https://github-readme-stats.vercel.app/api?username=andyfratello&show_icons=true&theme=dracula&hide=contribs&count_private=true)
+![Pau's github stats](https://github-readme-stats.vercel.app/api?username=PauCosta&show_icons=true&theme=dracula&hide=contribs&count_private=true)
 
 ![visitors](https://pageview.vercel.app/?github_user=andyfratello)
 
 <!--
-**andyfratello/andyfratello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PauCosta/PauCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
