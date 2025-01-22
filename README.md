@@ -11,6 +11,8 @@ Mis habilidades
 💾 Bases de datos (SQL)
 🖌️ Diseño Web (HTML5, CSS, JavaScript)
 
+Aquí algunos de mis trabajos universitarios: https://citmalumnes.upc.es/~paucf1/
+
 Contacto <br>
 Si desea ponerse en contacto conmigo, no dude en enviarme un correo electrónico a mi dirección: pau.cf268@gmail.com
 
